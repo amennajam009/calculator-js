@@ -1,0 +1,36 @@
+.container{
+     text-align: center;
+     margin-top: 45px;
+     
+     
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 20px;
+    font-size: 31px;
+    border: 5px solid purple;
+}
+button{
+    font-size: 36px;
+    background-color: blueviolet;
+    width: 93px;
+    height: 59px;
+    border-radius: 19px;   
+}
+button:hover{
+    background-color: transparent;
+    border: 2px solid  purple;
+    cursor: pointer;
+}
+.calculator{
+    display: inline-block;
+    border-radius: 44px;
+    background-color: rgb(120, 178, 224);
+   
+    padding: 10px;
+}
+body{
+    background-image: url(../pic/Pixar\ lamp\ wallpaper[2560x1600].png);
+}
